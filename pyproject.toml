@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "awesome-odoo"
+version = "0.1.0"
+description = ""
+authors = ["Dmitry Voronin <dimka665@gmail.com>"]
+license = "CC0-1.0"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+pygithub = "^1.47"
+python-dotenv = "^0.12"
+markdown = "^3.2"
+
+[tool.poetry.dev-dependencies]
+ipdb = "^0.13.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
