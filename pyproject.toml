@@ -8,7 +8,6 @@ license = "CC0-1.0"
 [tool.poetry.dependencies]
 python = "^3.6"
 pygithub = "^1.47"
-python-dotenv = "^0.12"
 markdown = "^3.2"
 
 [tool.poetry.dev-dependencies]
