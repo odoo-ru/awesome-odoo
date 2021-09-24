@@ -9,6 +9,7 @@ Awesome Odoo
 ### CLI
 - [click-odoo](https://github.com/acsone/click-odoo) - Run python scripts in a Odoo environment
 - [click-odoo-contrib](https://github.com/acsone/click-odoo-contrib) - Useful scripts and utility functions, based on click-odoo
+- [kodoo](https://github.com/chermed/kodoo). A terminal UI to explore easily the data.
 
 ### Linters
 - [pylint-odoo](https://github.com/OCA/pylint-odoo) - Pylint plugin
