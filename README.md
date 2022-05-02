@@ -1,11 +1,11 @@
 # Awesome Odoo [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Odoo](https://www.odoo.com/) is business management software including CRM,
+[Odoo](https://odoo.com/) is business management software including CRM,
 e-commerce, billing, accounting, manufacturing, warehouse, project management, 
 and inventory management. 
 
 ## Documentation
-- [Official documentation](https://www.odoo.com/documentation/15.0/) - Official Odoo documentation
+- [Official documentation](https://odoo.com/documentation/15.0/) - Official Odoo documentation
 - [IT-Projects documentation](https://odoo-development.readthedocs.io/) - Unofficial Depeloper documentation 
 
 ## Books
@@ -16,6 +16,9 @@ and inventory management.
   who wants to learn how to extend Odoo functionality
   without having to become a Python expert.
 - [Coding Dodo](https://codingdodo.com/) - Odoo, Python & JavaScript Tutorials
+
+## Courses
+- [Oocademy](https://oocademy.com/) - Become a professional Odoo developer
 
 ## Clients
 - [Odooly](https://github.com/tinyerp/odooly) - Python library and CLI to interact with Odoo and OpenERP
@@ -34,9 +37,9 @@ and inventory management.
 - [OpenUpgrade](https://github.com/OCA/OpenUpgrade) - Open source upgrade path for Odoo/OpenERP
 - [openupgradelib](https://github.com/OCA/openupgradelib) - A library with support functions to be called from Odoo migration scripts.
 
-[//]: # (## App Stores)
-[//]: # (- https://apps.odoo.com/apps - Official App Store)
-[//]: # (- )
+## App Stores
+- [apps.odoo.com](https://apps.odoo.com/apps) - Official App Store
+- [theodoostore.com](https://theodoostore.com/apps) - The Odoo Store
 
 ## Modules
 - Odoo Community Association (OCA)
