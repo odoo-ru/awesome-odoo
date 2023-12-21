@@ -1,4 +1,4 @@
-# Awesome Odoo [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Odoo
 
 [Odoo](https://odoo.com/) is business management software including CRM,
 e-commerce, billing, accounting, manufacturing, warehouse, project management, 
