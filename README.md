@@ -6,7 +6,7 @@ and inventory management.
 
 ## Documentation
 - [Official documentation](https://odoo.com/documentation/15.0/) - Official Odoo documentation
-- [IT-Projects documentation](https://odoo-development.readthedocs.io/) - Unofficial Depeloper documentation 
+- [IT-Projects documentation](https://odoo-development.readthedocs.io/) - Unofficial Developer documentation 
 
 ## Books
 - [Packt Books](https://subscription.packtpub.com/search?query=odoo) - Books by Packt publishing house
