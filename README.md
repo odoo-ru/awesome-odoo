@@ -32,10 +32,12 @@ and inventory management.
 
 ## Linters
 - [pylint-odoo](https://github.com/OCA/pylint-odoo) - Pylint plugin
+- [odoo-pre-commit-hooks](https://github.com/OCA/odoo-pre-commit-hooks) - Linters of Odoo addons
+  that complement pylint-odoo Resources
 
 ## Migration
 - [OpenUpgrade](https://github.com/OCA/OpenUpgrade) - Open source upgrade path for Odoo/OpenERP
-- [openupgradelib](https://github.com/OCA/openupgradelib) - A library with support functions to be called from Odoo migration scripts.
+- [openupgradelib](https://github.com/OCA/openupgradelib) - A library with support functions to be called from Odoo migration scripts
 
 ## App Stores
 - [apps.odoo.com](https://apps.odoo.com/apps) - Official App Store
