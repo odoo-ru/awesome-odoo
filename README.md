@@ -39,10 +39,5 @@ and inventory management.
 - [OpenUpgrade](https://github.com/OCA/OpenUpgrade) - Open source upgrade path for Odoo/OpenERP
 - [openupgradelib](https://github.com/OCA/openupgradelib) - A library with support functions to be called from Odoo migration scripts
 
-## App Stores
-- [apps.odoo.com](https://apps.odoo.com/apps) - Official App Store
-- [theodoostore.com](https://theodoostore.com/apps) - The Odoo Store
-
 ## Modules
-- Odoo Community Association (OCA)
-    - dude
+- [apps.odoo.com](https://apps.odoo.com/apps) - Official App Store
